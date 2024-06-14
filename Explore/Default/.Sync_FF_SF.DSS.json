@@ -16,14 +16,14 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "This is version 2",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-06-14T15:22:30.218Z",
+  "updateTime" : "2024-06-14T15:23:38.608Z",
   "objectRefs" : [ {
     "id" : "035IJJIVpAJcpEJ5jf95s2",
     "name" : "Flat-File_Connection",
